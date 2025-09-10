@@ -9,6 +9,6 @@ int main() {
 	first = 'A';
 	middle = 'N';
 	last = 'P'; 
-	std::cout << first << middle << last << __std_find_end_1;
+	std::cout << first << middle << last; 
 	return 0; 
 }
