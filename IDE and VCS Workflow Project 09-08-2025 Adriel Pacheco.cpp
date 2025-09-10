@@ -10,5 +10,5 @@ int main() {
 	middle = 'N';
 	last = 'P'; 
 	std::cout << first << middle << last; 
-	return 0; 
+	return 0;
 }
